@@ -9,7 +9,7 @@
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-  🎓 <strong>Ingeniero Civil en Computación mención Informática</strong> con experiencia en desarrollo de software y gestión de proyectos.
+  🎓 <strong>Ingeniero Civil en Computación mención Informática</strong> con experiencia en desarrollo de software, análisis de datos y gestión de proyectos.
 
   💻 Más de 2 años de experiencia en el desarrollo de software y en la gestión de proyectos tecnológicos.
 
