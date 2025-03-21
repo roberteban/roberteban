@@ -84,7 +84,7 @@
 
 <h2>Especialización</h2>
 <p align="left">
-  🌟 Actualmente me estoy especializando en <strong>React</strong>, <strong>JavaScript</strong> y <strong>Node.js</strong>.
+  🌟 Actualmente me estoy especializando en <strong>React</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong> y <strong>Power BI</strong>.
 </p>
 <br>
 
