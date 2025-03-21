@@ -13,7 +13,7 @@
 
   💻 Más de 2 años de experiencia en el desarrollo de software y en la gestión de proyectos tecnológicos.
 
-  📝 He desempeñado roles como desarrollador, investigador y documentador, contribuyendo a la creación y mejora de soluciones tecnológicas.
+  📝 He desempeñado roles como desarrollador, analista, investigador y documentador, contribuyendo a la creación y mejora de soluciones tecnológicas.
 
   📫 Puedes contactarme a través de: <a href="mailto:robertocastillocontact@gmail.com"><strong>robertocastillocontact@gmail.com</strong></a>
 </p>
