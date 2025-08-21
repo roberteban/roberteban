@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Roberto Castillo Riquelme ✨</h1>
+<h1 align="center">Hola, soy Roberto Castillo</h1>
 
 <p align="left">
   <a href="https://linkedin.com/in/roberteban" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="roberteban" /></a>
@@ -9,11 +9,9 @@
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-  🎓 <strong>Ingeniero Civil en Computación mención Informática</strong> con experiencia en desarrollo de software, análisis de datos y gestión de proyectos.
+  🎓 <strong>Ingeniero Civil en Computación, mención Informática</strong> con más de 2 años de experiencia en desarrollo de software, análisis de datos y gestión de proyectos tecnológicos.
 
-  💻 Más de 2 años de experiencia en el desarrollo de software y en la gestión de proyectos tecnológicos.
-
-  📝 He desempeñado roles como desarrollador, analista, investigador y documentador, contribuyendo a la creación y mejora de soluciones tecnológicas.
+  💻 He trabajado como desarrollador, analista, investigador y documentador, contribuyendo a la creación y mejora de soluciones tecnológicas.
 
   📫 Puedes contactarme a través de: <a href="mailto:robertocastillocontact@gmail.com"><strong>robertocastillocontact@gmail.com</strong></a>
 </p>
