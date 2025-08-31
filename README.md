@@ -7,7 +7,7 @@
 </p>
 <br>
 
-<h2>Sobre mí 😃</h2>
+<h2>Sobre mí</h2>
 <p align="left">
   🎓 <strong>Ingeniero Civil en Computación, mención Informática</strong> con más de 2 años de experiencia en desarrollo de software, análisis de datos y gestión de proyectos tecnológicos.
 
